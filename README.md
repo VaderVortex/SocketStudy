@@ -1,4 +1,4 @@
-# Ex.No: 1a  			Study of Socket Programming
+# Ex.No: 1(a)—Study of Socket Programming
 # Name: Sanjeev Kumar
 # Reg.No: 21222404290
 
